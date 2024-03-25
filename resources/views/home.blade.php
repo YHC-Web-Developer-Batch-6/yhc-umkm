@@ -1,5 +1,5 @@
 @extends('layouts.app')
 
 @section('content')
-    <div></div>
+    <div class="h-screen"></div>
 @endsection
