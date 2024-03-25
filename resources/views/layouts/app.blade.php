@@ -9,7 +9,7 @@
         @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
 
-    <body>
+    <body class="max-w-full">
         @include('layouts.partial.navbar')
         @yield('content')
     </body>

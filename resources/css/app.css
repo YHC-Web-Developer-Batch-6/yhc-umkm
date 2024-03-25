@@ -7,4 +7,58 @@
         font-family: "Lilita One";
         src: url("./../../public/assets/fonts/LilitaOne-Regular.ttf");
     }
+
+    @font-face {
+        font-family: "Inter";
+        font-weight: 900;
+        src: url("./../../public/assets/fonts/Inter-Black.ttf");
+    }
+
+    @font-face {
+        font-family: "Inter";
+        font-weight: 800;
+        src: url("./../../public/assets/fonts/Inter-Bold.ttf");
+    }
+
+    @font-face {
+        font-family: "Inter";
+        font-weight: 700;
+        src: url("./../../public/assets/fonts/Inter-Medium.ttf");
+    }
+
+    @font-face {
+        font-family: "Inter";
+        font-weight: 600;
+        src: url("./../../public/assets/fonts/Inter-SemiBold.ttf");
+    }
+
+    @font-face {
+        font-family: "Inter";
+        font-weight: 500;
+        src: url("./../../public/assets/fonts/Inter-Regular.ttf");
+    }
+
+    @font-face {
+        font-family: "Inter";
+        font-weight: 400;
+        src: url("./../../public/assets/fonts/Inter-Light.ttf");
+    }
+
+    @font-face {
+        font-family: "Inter";
+        font-weight: 300;
+        src: url("./../../public/assets/fonts/Inter-ExtraLight.ttf");
+    }
+
+    @font-face {
+        font-family: "Inter";
+        font-weight: 200;
+        src: url("./../../public/assets/fonts/Inter-Thin.ttf");
+    }
+}
+
+@layer utilities {
+    body {
+        font-family: 'Inter';
+    }
 }

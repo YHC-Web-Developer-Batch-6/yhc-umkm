@@ -8,10 +8,13 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'LilitaOne': ['Lilita One']
-      }
+        LilitaOne: ["Lilita One"],
+        inter: ["Inter"],
+      },
+      maxWidth: {
+        '100': '1200px'
+      },
     },
   },
   plugins: [],
-}
-
+};
