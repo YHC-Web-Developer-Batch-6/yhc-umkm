@@ -1,6 +1,5 @@
 <div class="container">
-    <div class="font-bold font-Lilita"
-        style="background: linear-gradient(90deg, #1E40AF 0%, #3B82F6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-        UMKM
+    <div class="h-12 w-[147px] bg-contain">
+        <img class="w-fit" src="{{ asset('assets/img/logo.png') }}" alt="">
     </div>
 </div>

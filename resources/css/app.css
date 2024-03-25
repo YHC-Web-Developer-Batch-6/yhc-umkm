@@ -4,7 +4,7 @@
 
 @layer base {
     @font-face {
-        font-family: "Lilita";
-        src: local('Lilita'), url("./assets/fonts/LilitaOne-Regular.ttf") format("ttf");
+        font-family: "Lilita One";
+        src: url("./../../public/assets/fonts/LilitaOne-Regular.ttf");
     }
 }

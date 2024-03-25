@@ -8,7 +8,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'Lilita': ['Lilita']
+        'LilitaOne': ['Lilita One']
       }
     },
   },
