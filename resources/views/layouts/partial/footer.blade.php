@@ -126,7 +126,7 @@
                 </div> --}}
             </div>
             <div class="border-b-[1px] border-white mt-[42px] mb-[42px]"></div>
-            <h2 class="mb-[108px] flex justify-end font-inter font-[12px]">@ 2024 Yayasan Hasnur Centre - All Right
+            <h2 class="mb-[108px] flex justify-end font-inter font-[12px]">&copy; 2024 Yayasan Hasnur Centre - All Right
                 Reserved
             </h2>
         </div>
