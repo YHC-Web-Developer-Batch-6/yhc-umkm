@@ -19,7 +19,7 @@ return new class extends Migration
             $table->string('slug');
             $table->string('subtitle');
             $table->bigInteger('price');
-            $table->string('description');
+            $table->text('description');
             $table->string('advantage');
             $table->string('material');
             $table->bigInteger('product_link');
