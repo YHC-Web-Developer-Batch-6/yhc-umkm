@@ -9,7 +9,7 @@
         <div class="w-full mx-[178px] mb-3">
             <div class="flex justify-between mb-4">
                 <div class="grid gap-4 w-[270px]">
-                    <div class="flex mb-2 ">
+                    <div class="flex">
                         <svg width="28" height="28" viewBox="0 0 28 28" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path fill-rule="evenodd" clip-rule="evenodd"
