@@ -11,9 +11,9 @@ export default {
         LilitaOne: ["Lilita One"],
         inter: ["Inter"],
       },
-      maxWidth: {
-        '100': '1200px'
-      },
+      screens: {
+        'ip': '426px'
+      }
     },
   },
   plugins: [],

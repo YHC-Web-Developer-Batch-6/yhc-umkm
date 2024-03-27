@@ -20,7 +20,7 @@
             </ul>
         </div>
         <div class="flex gap-2">
-            <a class="flex items-center gap-4 rounded-lg bg-blue-500 px-5 py-4 font-semibold text-white" href="#">
+            <a class="btn-filled" href="#">
                 <svg width="20" height="20" viewBox="0 0 20 20" fill="none"
                     xmlns="http://www.w3.org/2000/svg">
                     <path fill-rule="evenodd" clip-rule="evenodd"
